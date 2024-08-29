@@ -11,9 +11,9 @@ Este proyecto tiene como objetivo desarrollar un chatbot educacional utilizando 
 
 ## 1. Python y Flask (Backend)
 
-**Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) es un lenguaje de programación versátil y ampliamente utilizado que facilita la implementación de la lógica del backend para el chatbot. Su sintaxis clara y su gran cantidad de bibliotecas lo hacen ideal para manejar operaciones complejas y procesamiento de datos.
+**Python** es un lenguaje de programación versátil y ampliamente utilizado que facilita la implementación de la lógica del backend para el chatbot. Su sintaxis clara y su gran cantidad de bibliotecas lo hacen ideal para manejar operaciones complejas y procesamiento de datos.
 
-**Flask** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) es un microframework para Python que proporciona las herramientas necesarias para construir aplicaciones web de manera sencilla y eficaz. Permite definir rutas, manejar solicitudes HTTP y servir respuestas, actuando como intermediario entre el frontend y el motor de procesamiento del chatbot.
+**Flask** es un microframework para Python que proporciona las herramientas necesarias para construir aplicaciones web de manera sencilla y eficaz. Permite definir rutas, manejar solicitudes HTTP y servir respuestas, actuando como intermediario entre el frontend y el motor de procesamiento del chatbot.
 
 **Ventajas:**
 - **Simplicidad y Flexibilidad:** Python y Flask son conocidos por su simplicidad, facilitando una rápida implementación y modificaciones del backend.
@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo desarrollar un chatbot educacional utilizando 
 
 ## 2. OpenAI API (Procesamiento del Lenguaje Natural)
 
-**OpenAI API** ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white) proporciona acceso a modelos avanzados de procesamiento de lenguaje natural, como GPT-4. Estos modelos comprenden y generan texto de manera coherente, ofreciendo respuestas educativas y precisas.
+**OpenAI API** proporciona acceso a modelos avanzados de procesamiento de lenguaje natural, como GPT-4. Estos modelos comprenden y generan texto de manera coherente, ofreciendo respuestas educativas y precisas.
 
 **Ventajas:**
 - **Respuestas Inteligentes y Contextuales:** Los modelos de OpenAI generan respuestas relevantes y coherentes, mejorando la calidad de la interacción con el chatbot.
@@ -30,9 +30,9 @@ Este proyecto tiene como objetivo desarrollar un chatbot educacional utilizando 
 
 ## 3. HTML, CSS, JavaScript y React (Frontend)
 
-**HTML** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) proporciona la estructura básica de la página web donde se integrará el chatbot. **CSS** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) se utiliza para estilizar la interfaz, asegurando que el chatbot sea visualmente atractivo y funcional. **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) permite manejar la lógica de la interacción en tiempo real, enviando y recibiendo mensajes entre el usuario y el backend.
+**HTML** proporciona la estructura básica de la página web donde se integrará el chatbot. **CSS** se utiliza para estilizar la interfaz, asegurando que el chatbot sea visualmente atractivo y funcional. **JavaScript** permite manejar la lógica de la interacción en tiempo real, enviando y recibiendo mensajes entre el usuario y el backend.
 
-**React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) es una biblioteca de JavaScript para construir interfaces de usuario interactivas. Facilita la creación de componentes reutilizables y la gestión eficiente del estado de la aplicación.
+**React** es una biblioteca de JavaScript para construir interfaces de usuario interactivas. Facilita la creación de componentes reutilizables y la gestión eficiente del estado de la aplicación.
 
 **Ventajas:**
 
@@ -50,7 +50,7 @@ Este proyecto tiene como objetivo desarrollar un chatbot educacional utilizando 
 
 ## Resumen
 
-El uso combinado de Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white), OpenAI API ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white), HTML ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), CSS ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white), JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) y React ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ofrece una solución robusta y eficiente para desarrollar un chatbot educacional. Python y Flask manejan el backend y la lógica del chatbot, OpenAI API proporciona inteligencia en el procesamiento del lenguaje, mientras que HTML, CSS, JavaScript y React aseguran una interfaz de usuario interactiva y atractiva.
+El uso combinado de Python, Flask, OpenAI API, HTML, CSS, JavaScript y React ofrece una solución robusta y eficiente para desarrollar un chatbot educacional. Python y Flask manejan el backend y la lógica del chatbot, OpenAI API proporciona inteligencia en el procesamiento del lenguaje, mientras que HTML, CSS, JavaScript y React aseguran una interfaz de usuario interactiva y atractiva.
 
 ## Diagrama de Flujo
 
